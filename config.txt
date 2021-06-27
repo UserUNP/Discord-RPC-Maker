@@ -1,0 +1,7 @@
+appid=123456789012345678
+state=Made using https://github.com/UserUNP/Discord-RPC-Maker
+details=epic RPC moment
+bigimg=big image
+bigimgtext=big hover text
+smallimg=smol image
+smallimgtext=smol hover text
