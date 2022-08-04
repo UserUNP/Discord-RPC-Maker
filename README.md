@@ -1,5 +1,5 @@
 # Discord-RPC-Maker
-a simple rpc maker without watermarks because frick ads  
+a simple rpc maker without watermarks because fuck ads  
 (Using the [Discord-RPC Wrapper for Java](https://github.com/Vatuu/discord-rpc))
 # Usage
 Go to _[Discord's Developers site](https://discord.com/developers)_ and make a new _Application_,  
